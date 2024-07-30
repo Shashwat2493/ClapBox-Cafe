@@ -1,2 +1,2 @@
-# ClapBox-Cafe
-A restraunt project
+# Know Your Luck
+A javascript based game
